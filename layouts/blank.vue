@@ -2,11 +2,8 @@
 
 <template>
   <VApp>
-    <NavTopNav />
-    <NavSideNav />
-
-    <v-main>
+    <VMain>
       <slot />
-    </v-main>
+    </VMain>
   </VApp>
 </template>
