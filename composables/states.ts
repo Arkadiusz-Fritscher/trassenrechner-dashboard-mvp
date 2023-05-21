@@ -1,23 +1,25 @@
-export type Role = "Admin" | "Editor" | "Viewer";
+import type { User, Company } from "@/types";
+import db from "@/db";
 
-export interface Group {
-  id: number;
-  name: string;
-  members: User["id"][];
-  devices: number[];
-}
+const fakeUser: User = {
+  id: 1,
+  name: "John Doe",
+  email: "main@email.bbbl",
+  role: "Admin",
+  company: 1,
+  headers: null,
+};
 
-export interface User {
-  id: number;
-  name: string;
-  email: string;
-  role: Role;
-  group: Group["id"] | null;
-}
+export const useUser = () => useState<User | null>("user", () => fakeUser);
 
-export const useUser = () =>
-  useState<User | null>("user", () => {
-    return { id: 1, name: "John Doe", email: "main@fjdlsjfk.ld", role: "Admin", group: 1 };
+export const useCompany = () =>
+  useState<Company | null | undefined>("company", () => {
+    const user = useUser();
+
+    if (!user.value || user.value === null || user.value.company === null) {
+      return null;
+    }
+    return db.companies.find((company) => company.id === user.value?.company);
   });
 
 export const useAuth = () =>

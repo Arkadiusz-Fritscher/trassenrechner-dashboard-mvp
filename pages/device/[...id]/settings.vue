@@ -1,8 +1,10 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+const route = useRoute();
+</script>
 
 <template>
   <VContainer fluid>
-    <section id="settings"></section>
+    <section id="settings">{{ route }}</section>
   </VContainer>
 </template>
 

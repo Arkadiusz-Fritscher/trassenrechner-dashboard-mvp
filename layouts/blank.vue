@@ -2,8 +2,8 @@
 
 <template>
   <VApp>
-    <VMain>
+    <v-main>
       <slot />
-    </VMain>
+    </v-main>
   </VApp>
 </template>

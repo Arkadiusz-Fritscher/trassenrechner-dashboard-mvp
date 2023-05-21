@@ -1,0 +1,1804 @@
+{
+  "devices": [
+    {
+      "id": 1,
+      "company": 1,
+      "type": "302-22",
+      "location": "3 Vernon Lane",
+      "brand": "Kwimbee",
+      "lastSeen": "2022-03-01T11:48:27Z",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "company": 3,
+      "type": "857-33",
+      "location": "86 Kenwood Court",
+      "brand": "Cogidoo",
+      "lastSeen": "2019-11-14T02:47:14Z",
+      "status": "online"
+    },
+    {
+      "id": 3,
+      "company": 3,
+      "type": "954-31",
+      "location": "55773 Hazelcrest Plaza",
+      "brand": "Voonyx",
+      "lastSeen": "2020-09-05T10:15:32Z",
+      "status": "online"
+    },
+    {
+      "id": 4,
+      "company": 1,
+      "type": "820-39",
+      "location": "62846 High Crossing Hill",
+      "brand": "Agimba",
+      "lastSeen": "2021-12-19T19:15:16Z",
+      "status": "offline"
+    },
+    {
+      "id": 5,
+      "company": 3,
+      "type": "932-95",
+      "location": "8122 Prairieview Pass",
+      "brand": "Flashspan",
+      "lastSeen": "2022-05-02T02:27:42Z",
+      "status": "offline"
+    },
+    {
+      "id": 6,
+      "company": 3,
+      "type": "259-42",
+      "location": "919 Prairieview Avenue",
+      "brand": "Livetube",
+      "lastSeen": "2019-01-25T21:08:20Z",
+      "status": "online"
+    },
+    {
+      "id": 7,
+      "company": 3,
+      "type": "903-76",
+      "location": "89 Sachtjen Pass",
+      "brand": "Meemm",
+      "lastSeen": "2019-09-05T08:13:02Z",
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "company": 3,
+      "type": "315-28",
+      "location": "7930 Kennedy Alley",
+      "brand": "Eidel",
+      "lastSeen": "2022-07-29T06:06:35Z",
+      "status": "offline"
+    },
+    {
+      "id": 9,
+      "company": 1,
+      "type": "338-63",
+      "location": "3297 Shasta Road",
+      "brand": "Eazzy",
+      "lastSeen": "2020-05-20T12:53:05Z",
+      "status": "pending"
+    },
+    {
+      "id": 10,
+      "company": 1,
+      "type": "256-49",
+      "location": "1341 Eliot Point",
+      "brand": "Myworks",
+      "lastSeen": "2019-02-12T03:17:16Z",
+      "status": "online"
+    },
+    {
+      "id": 11,
+      "company": 2,
+      "type": "672-77",
+      "location": "0 Green Ridge Plaza",
+      "brand": "Teklist",
+      "lastSeen": "2020-03-09T03:24:01Z",
+      "status": "pending"
+    },
+    {
+      "id": 12,
+      "company": 3,
+      "type": "349-77",
+      "location": "66671 Redwing Junction",
+      "brand": "Tagpad",
+      "lastSeen": "2022-11-03T16:37:15Z",
+      "status": "online"
+    },
+    {
+      "id": 13,
+      "company": 2,
+      "type": "485-82",
+      "location": "0345 Veith Center",
+      "brand": "Dabshots",
+      "lastSeen": "2019-04-25T03:00:57Z",
+      "status": "online"
+    },
+    {
+      "id": 14,
+      "company": 2,
+      "type": "196-89",
+      "location": "9690 Milwaukee Circle",
+      "brand": "Photojam",
+      "lastSeen": "2020-10-18T06:59:24Z",
+      "status": "pending"
+    },
+    {
+      "id": 15,
+      "company": 2,
+      "type": "804-40",
+      "location": "97488 Namekagon Crossing",
+      "brand": "Dablist",
+      "lastSeen": "2020-07-03T00:27:46Z",
+      "status": "online"
+    },
+    {
+      "id": 16,
+      "company": 1,
+      "type": "575-88",
+      "location": "072 Jay Pass",
+      "brand": "Realfire",
+      "lastSeen": "2022-01-31T00:24:25Z",
+      "status": "pending"
+    },
+    {
+      "id": 17,
+      "company": 3,
+      "type": "017-62",
+      "location": "66112 Del Sol Circle",
+      "brand": "Oyoyo",
+      "lastSeen": "2019-11-15T06:04:18Z",
+      "status": "pending"
+    },
+    {
+      "id": 18,
+      "company": 3,
+      "type": "478-92",
+      "location": "5113 Summit Junction",
+      "brand": "Youopia",
+      "lastSeen": "2022-02-10T15:57:42Z",
+      "status": "pending"
+    },
+    {
+      "id": 19,
+      "company": 2,
+      "type": "264-67",
+      "location": "09 Sommers Junction",
+      "brand": "Wikido",
+      "lastSeen": "2019-06-28T23:24:01Z",
+      "status": "pending"
+    },
+    {
+      "id": 20,
+      "company": 3,
+      "type": "521-56",
+      "location": "144 Commercial Plaza",
+      "brand": "Skyba",
+      "lastSeen": "2019-05-04T19:02:05Z",
+      "status": "offline"
+    },
+    {
+      "id": 21,
+      "company": 3,
+      "type": "023-11",
+      "location": "53469 Crownhardt Point",
+      "brand": "Trilith",
+      "lastSeen": "2021-11-26T23:06:02Z",
+      "status": "offline"
+    },
+    {
+      "id": 22,
+      "company": 2,
+      "type": "129-82",
+      "location": "5645 Banding Alley",
+      "brand": "Youbridge",
+      "lastSeen": "2020-03-19T23:49:28Z",
+      "status": "pending"
+    },
+    {
+      "id": 23,
+      "company": 1,
+      "type": "281-69",
+      "location": "33 Oak Valley Pass",
+      "brand": "Blognation",
+      "lastSeen": "2021-12-23T03:26:13Z",
+      "status": "online"
+    },
+    {
+      "id": 24,
+      "company": 1,
+      "type": "651-49",
+      "location": "286 Briar Crest Plaza",
+      "brand": "Jatri",
+      "lastSeen": "2022-05-22T04:37:33Z",
+      "status": "online"
+    },
+    {
+      "id": 25,
+      "company": 2,
+      "type": "430-15",
+      "location": "33166 Ridge Oak Pass",
+      "brand": "Yata",
+      "lastSeen": "2022-11-25T05:49:15Z",
+      "status": "offline"
+    },
+    {
+      "id": 26,
+      "company": 1,
+      "type": "320-33",
+      "location": "23798 Kim Lane",
+      "brand": "Podcat",
+      "lastSeen": "2020-09-10T16:29:17Z",
+      "status": "pending"
+    },
+    {
+      "id": 27,
+      "company": 2,
+      "type": "490-00",
+      "location": "193 Badeau Road",
+      "brand": "Edgewire",
+      "lastSeen": "2022-06-07T19:09:20Z",
+      "status": "offline"
+    },
+    {
+      "id": 28,
+      "company": 3,
+      "type": "425-14",
+      "location": "5 Artisan Crossing",
+      "brand": "Meevee",
+      "lastSeen": "2020-08-24T11:52:08Z",
+      "status": "online"
+    },
+    {
+      "id": 29,
+      "company": 3,
+      "type": "430-32",
+      "location": "28896 Birchwood Street",
+      "brand": "Yambee",
+      "lastSeen": "2021-01-20T02:57:12Z",
+      "status": "offline"
+    },
+    {
+      "id": 30,
+      "company": 3,
+      "type": "535-43",
+      "location": "8783 Forest Dale Avenue",
+      "brand": "Yotz",
+      "lastSeen": "2019-05-27T05:31:57Z",
+      "status": "online"
+    },
+    {
+      "id": 31,
+      "company": 2,
+      "type": "994-24",
+      "location": "508 Mockingbird Avenue",
+      "brand": "Devcast",
+      "lastSeen": "2021-10-26T23:43:44Z",
+      "status": "online"
+    },
+    {
+      "id": 32,
+      "company": 3,
+      "type": "134-80",
+      "location": "778 Spohn Trail",
+      "brand": "Bluezoom",
+      "lastSeen": "2022-05-07T02:54:45Z",
+      "status": "online"
+    },
+    {
+      "id": 33,
+      "company": 1,
+      "type": "574-27",
+      "location": "12 Butterfield Avenue",
+      "brand": "Minyx",
+      "lastSeen": "2021-08-25T01:54:59Z",
+      "status": "online"
+    },
+    {
+      "id": 34,
+      "company": 3,
+      "type": "537-04",
+      "location": "2 Sommers Road",
+      "brand": "Wordpedia",
+      "lastSeen": "2022-06-11T02:01:30Z",
+      "status": "online"
+    },
+    {
+      "id": 35,
+      "company": 1,
+      "type": "095-15",
+      "location": "28 Hanson Place",
+      "brand": "Plambee",
+      "lastSeen": "2020-10-15T20:58:45Z",
+      "status": "pending"
+    },
+    {
+      "id": 36,
+      "company": 1,
+      "type": "670-43",
+      "location": "051 Bonner Crossing",
+      "brand": "Abata",
+      "lastSeen": "2022-09-12T00:14:53Z",
+      "status": "pending"
+    },
+    {
+      "id": 37,
+      "company": 1,
+      "type": "992-75",
+      "location": "6 Hansons Terrace",
+      "brand": "Voonix",
+      "lastSeen": "2021-01-09T19:50:45Z",
+      "status": "pending"
+    },
+    {
+      "id": 38,
+      "company": 1,
+      "type": "969-95",
+      "location": "22 Thompson Crossing",
+      "brand": "Vipe",
+      "lastSeen": "2019-09-16T06:53:17Z",
+      "status": "online"
+    },
+    {
+      "id": 39,
+      "company": 2,
+      "type": "001-70",
+      "location": "5 Esker Lane",
+      "brand": "Kanoodle",
+      "lastSeen": "2022-10-13T10:45:27Z",
+      "status": "pending"
+    },
+    {
+      "id": 40,
+      "company": 2,
+      "type": "347-69",
+      "location": "58105 Esch Street",
+      "brand": "Jaxspan",
+      "lastSeen": "2021-10-26T21:51:05Z",
+      "status": "online"
+    },
+    {
+      "id": 41,
+      "company": 3,
+      "type": "381-68",
+      "location": "12098 Fair Oaks Circle",
+      "brand": "Oyoba",
+      "lastSeen": "2020-08-14T15:37:34Z",
+      "status": "offline"
+    },
+    {
+      "id": 42,
+      "company": 2,
+      "type": "522-80",
+      "location": "7813 Arizona Circle",
+      "brand": "Oyondu",
+      "lastSeen": "2020-11-02T10:07:38Z",
+      "status": "pending"
+    },
+    {
+      "id": 43,
+      "company": 3,
+      "type": "466-02",
+      "location": "8 Eagle Crest Lane",
+      "brand": "Oyoyo",
+      "lastSeen": "2019-05-31T10:11:25Z",
+      "status": "online"
+    },
+    {
+      "id": 44,
+      "company": 1,
+      "type": "985-98",
+      "location": "5980 Bowman Hill",
+      "brand": "Riffwire",
+      "lastSeen": "2021-06-19T18:51:58Z",
+      "status": "online"
+    },
+    {
+      "id": 45,
+      "company": 1,
+      "type": "494-01",
+      "location": "571 Eggendart Crossing",
+      "brand": "Photospace",
+      "lastSeen": "2020-09-18T14:07:06Z",
+      "status": "offline"
+    },
+    {
+      "id": 46,
+      "company": 2,
+      "type": "246-87",
+      "location": "6793 Helena Crossing",
+      "brand": "Thoughtmix",
+      "lastSeen": "2019-06-21T00:20:11Z",
+      "status": "pending"
+    },
+    {
+      "id": 47,
+      "company": 1,
+      "type": "802-46",
+      "location": "2 Brickson Park Lane",
+      "brand": "Agimba",
+      "lastSeen": "2021-09-15T12:26:47Z",
+      "status": "online"
+    },
+    {
+      "id": 48,
+      "company": 2,
+      "type": "426-33",
+      "location": "8 Dakota Terrace",
+      "brand": "Talane",
+      "lastSeen": "2022-04-28T20:41:46Z",
+      "status": "offline"
+    },
+    {
+      "id": 49,
+      "company": 3,
+      "type": "153-42",
+      "location": "6 Monument Road",
+      "brand": "Zoomcast",
+      "lastSeen": "2020-02-28T04:16:43Z",
+      "status": "offline"
+    },
+    {
+      "id": 50,
+      "company": 2,
+      "type": "371-45",
+      "location": "6319 Tennessee Road",
+      "brand": "Vipe",
+      "lastSeen": "2022-06-17T05:48:29Z",
+      "status": "offline"
+    },
+    {
+      "id": 51,
+      "company": 1,
+      "type": "470-50",
+      "location": "9 Kinsman Circle",
+      "brand": "Mycat",
+      "lastSeen": "2022-02-03T17:05:05Z",
+      "status": "online"
+    },
+    {
+      "id": 52,
+      "company": 2,
+      "type": "269-40",
+      "location": "7 Hoffman Trail",
+      "brand": "Avaveo",
+      "lastSeen": "2022-12-07T00:56:10Z",
+      "status": "pending"
+    },
+    {
+      "id": 53,
+      "company": 2,
+      "type": "055-37",
+      "location": "30711 Homewood Junction",
+      "brand": "Edgeify",
+      "lastSeen": "2020-01-16T02:42:35Z",
+      "status": "online"
+    },
+    {
+      "id": 54,
+      "company": 2,
+      "type": "102-70",
+      "location": "879 Prairie Rose Alley",
+      "brand": "Wordware",
+      "lastSeen": "2020-09-04T00:27:19Z",
+      "status": "online"
+    },
+    {
+      "id": 55,
+      "company": 2,
+      "type": "893-81",
+      "location": "97 Hooker Junction",
+      "brand": "Oyondu",
+      "lastSeen": "2021-11-29T13:36:13Z",
+      "status": "online"
+    },
+    {
+      "id": 56,
+      "company": 3,
+      "type": "688-58",
+      "location": "6555 Spenser Park",
+      "brand": "Jaxbean",
+      "lastSeen": "2020-06-11T04:12:18Z",
+      "status": "offline"
+    },
+    {
+      "id": 57,
+      "company": 1,
+      "type": "160-78",
+      "location": "0 Bartillon Plaza",
+      "brand": "Gigashots",
+      "lastSeen": "2020-06-04T19:28:57Z",
+      "status": "online"
+    },
+    {
+      "id": 58,
+      "company": 3,
+      "type": "982-58",
+      "location": "6047 Trailsway Place",
+      "brand": "Realblab",
+      "lastSeen": "2020-08-31T04:53:00Z",
+      "status": "pending"
+    },
+    {
+      "id": 59,
+      "company": 3,
+      "type": "193-07",
+      "location": "54 Vidon Trail",
+      "brand": "Blognation",
+      "lastSeen": "2022-02-17T10:42:05Z",
+      "status": "online"
+    },
+    {
+      "id": 60,
+      "company": 1,
+      "type": "130-37",
+      "location": "35 Monterey Avenue",
+      "brand": "Plambee",
+      "lastSeen": "2021-07-14T00:33:45Z",
+      "status": "online"
+    },
+    {
+      "id": 61,
+      "company": 3,
+      "type": "567-85",
+      "location": "89 Tony Lane",
+      "brand": "Zoomdog",
+      "lastSeen": "2020-08-23T18:53:25Z",
+      "status": "offline"
+    },
+    {
+      "id": 62,
+      "company": 2,
+      "type": "100-68",
+      "location": "652 Sullivan Hill",
+      "brand": "Aivee",
+      "lastSeen": "2019-10-24T08:33:04Z",
+      "status": "pending"
+    },
+    {
+      "id": 63,
+      "company": 2,
+      "type": "026-12",
+      "location": "8675 Meadow Ridge Park",
+      "brand": "Izio",
+      "lastSeen": "2021-05-02T14:50:31Z",
+      "status": "offline"
+    },
+    {
+      "id": 64,
+      "company": 2,
+      "type": "825-15",
+      "location": "5869 Haas Court",
+      "brand": "Kwideo",
+      "lastSeen": "2022-02-12T09:28:18Z",
+      "status": "pending"
+    },
+    {
+      "id": 65,
+      "company": 1,
+      "type": "204-41",
+      "location": "72702 Ruskin Plaza",
+      "brand": "Wordify",
+      "lastSeen": "2021-03-21T13:04:53Z",
+      "status": "online"
+    },
+    {
+      "id": 66,
+      "company": 2,
+      "type": "822-32",
+      "location": "5 Brentwood Parkway",
+      "brand": "Cogilith",
+      "lastSeen": "2021-10-27T05:04:24Z",
+      "status": "online"
+    },
+    {
+      "id": 67,
+      "company": 1,
+      "type": "669-63",
+      "location": "17004 Surrey Drive",
+      "brand": "Agimba",
+      "lastSeen": "2021-10-31T22:55:00Z",
+      "status": "offline"
+    },
+    {
+      "id": 68,
+      "company": 2,
+      "type": "316-65",
+      "location": "0 Lyons Circle",
+      "brand": "Bluejam",
+      "lastSeen": "2022-01-21T22:15:12Z",
+      "status": "pending"
+    },
+    {
+      "id": 69,
+      "company": 1,
+      "type": "195-18",
+      "location": "7 Loftsgordon Park",
+      "brand": "Jaxspan",
+      "lastSeen": "2021-09-25T18:28:22Z",
+      "status": "pending"
+    },
+    {
+      "id": 70,
+      "company": 3,
+      "type": "066-39",
+      "location": "78 Fuller Road",
+      "brand": "Yotz",
+      "lastSeen": "2019-02-11T17:10:43Z",
+      "status": "pending"
+    },
+    {
+      "id": 71,
+      "company": 3,
+      "type": "405-58",
+      "location": "667 Sycamore Crossing",
+      "brand": "Flipbug",
+      "lastSeen": "2020-05-31T08:55:33Z",
+      "status": "online"
+    },
+    {
+      "id": 72,
+      "company": 2,
+      "type": "981-80",
+      "location": "6 Duke Junction",
+      "brand": "Skimia",
+      "lastSeen": "2022-02-23T19:33:03Z",
+      "status": "pending"
+    },
+    {
+      "id": 73,
+      "company": 2,
+      "type": "817-02",
+      "location": "16037 Buell Court",
+      "brand": "Wikibox",
+      "lastSeen": "2021-04-05T14:27:38Z",
+      "status": "online"
+    },
+    {
+      "id": 74,
+      "company": 1,
+      "type": "107-90",
+      "location": "40869 Bartillon Pass",
+      "brand": "Topdrive",
+      "lastSeen": "2019-11-16T02:33:23Z",
+      "status": "offline"
+    },
+    {
+      "id": 75,
+      "company": 2,
+      "type": "838-90",
+      "location": "70 Schiller Terrace",
+      "brand": "Kanoodle",
+      "lastSeen": "2022-09-22T04:10:27Z",
+      "status": "pending"
+    },
+    {
+      "id": 76,
+      "company": 3,
+      "type": "747-07",
+      "location": "863 Hoard Street",
+      "brand": "Flipopia",
+      "lastSeen": "2022-01-30T10:03:31Z",
+      "status": "pending"
+    },
+    {
+      "id": 77,
+      "company": 3,
+      "type": "681-13",
+      "location": "226 Hoepker Way",
+      "brand": "Fliptune",
+      "lastSeen": "2019-06-02T11:58:32Z",
+      "status": "pending"
+    },
+    {
+      "id": 78,
+      "company": 3,
+      "type": "695-12",
+      "location": "53 Holy Cross Park",
+      "brand": "Thoughtstorm",
+      "lastSeen": "2021-01-18T07:37:34Z",
+      "status": "online"
+    },
+    {
+      "id": 79,
+      "company": 2,
+      "type": "737-76",
+      "location": "45149 Jenna Terrace",
+      "brand": "Skimia",
+      "lastSeen": "2020-12-18T08:59:53Z",
+      "status": "offline"
+    },
+    {
+      "id": 80,
+      "company": 2,
+      "type": "975-34",
+      "location": "66973 Maple Park",
+      "brand": "Pixoboo",
+      "lastSeen": "2020-09-22T18:38:29Z",
+      "status": "pending"
+    },
+    {
+      "id": 81,
+      "company": 2,
+      "type": "312-77",
+      "location": "52 Upham Plaza",
+      "brand": "Chatterbridge",
+      "lastSeen": "2019-09-30T16:25:44Z",
+      "status": "pending"
+    },
+    {
+      "id": 82,
+      "company": 3,
+      "type": "236-72",
+      "location": "44 Commercial Court",
+      "brand": "Omba",
+      "lastSeen": "2019-05-30T07:32:17Z",
+      "status": "offline"
+    },
+    {
+      "id": 83,
+      "company": 2,
+      "type": "097-69",
+      "location": "92394 Haas Pass",
+      "brand": "Topdrive",
+      "lastSeen": "2019-02-12T19:01:13Z",
+      "status": "online"
+    },
+    {
+      "id": 84,
+      "company": 1,
+      "type": "137-80",
+      "location": "3 Hoard Alley",
+      "brand": "Quinu",
+      "lastSeen": "2021-12-21T00:35:07Z",
+      "status": "pending"
+    },
+    {
+      "id": 85,
+      "company": 2,
+      "type": "165-95",
+      "location": "5 Burrows Hill",
+      "brand": "Jaxworks",
+      "lastSeen": "2022-05-15T05:48:08Z",
+      "status": "offline"
+    },
+    {
+      "id": 86,
+      "company": 1,
+      "type": "931-44",
+      "location": "423 Elmside Court",
+      "brand": "Babbleset",
+      "lastSeen": "2020-12-13T10:35:41Z",
+      "status": "online"
+    },
+    {
+      "id": 87,
+      "company": 1,
+      "type": "572-95",
+      "location": "0 Corry Terrace",
+      "brand": "Muxo",
+      "lastSeen": "2022-05-06T01:15:11Z",
+      "status": "offline"
+    },
+    {
+      "id": 88,
+      "company": 3,
+      "type": "024-65",
+      "location": "00945 Lillian Trail",
+      "brand": "Talane",
+      "lastSeen": "2022-11-20T02:52:08Z",
+      "status": "offline"
+    },
+    {
+      "id": 89,
+      "company": 1,
+      "type": "264-70",
+      "location": "54640 Dunning Street",
+      "brand": "Dablist",
+      "lastSeen": "2021-01-11T08:09:09Z",
+      "status": "pending"
+    },
+    {
+      "id": 90,
+      "company": 1,
+      "type": "495-70",
+      "location": "58250 Becker Court",
+      "brand": "Mycat",
+      "lastSeen": "2020-11-27T11:30:09Z",
+      "status": "pending"
+    },
+    {
+      "id": 91,
+      "company": 2,
+      "type": "616-55",
+      "location": "95 Hooker Trail",
+      "brand": "Blogtags",
+      "lastSeen": "2019-07-14T18:04:40Z",
+      "status": "offline"
+    },
+    {
+      "id": 92,
+      "company": 1,
+      "type": "213-22",
+      "location": "39 Daystar Plaza",
+      "brand": "Tagpad",
+      "lastSeen": "2021-04-21T11:44:09Z",
+      "status": "offline"
+    },
+    {
+      "id": 93,
+      "company": 2,
+      "type": "343-73",
+      "location": "3723 Kennedy Center",
+      "brand": "Browsebug",
+      "lastSeen": "2019-11-17T17:37:20Z",
+      "status": "pending"
+    },
+    {
+      "id": 94,
+      "company": 1,
+      "type": "178-98",
+      "location": "590 Forest Place",
+      "brand": "Lazz",
+      "lastSeen": "2022-01-18T06:07:31Z",
+      "status": "offline"
+    },
+    {
+      "id": 95,
+      "company": 3,
+      "type": "152-25",
+      "location": "39 Del Mar Lane",
+      "brand": "Skyvu",
+      "lastSeen": "2019-04-21T08:27:03Z",
+      "status": "online"
+    },
+    {
+      "id": 96,
+      "company": 2,
+      "type": "841-41",
+      "location": "8991 Grim Avenue",
+      "brand": "Ainyx",
+      "lastSeen": "2019-07-18T22:10:24Z",
+      "status": "online"
+    },
+    {
+      "id": 97,
+      "company": 3,
+      "type": "460-94",
+      "location": "9852 Lillian Alley",
+      "brand": "Eabox",
+      "lastSeen": "2022-10-26T11:40:04Z",
+      "status": "offline"
+    },
+    {
+      "id": 98,
+      "company": 3,
+      "type": "277-81",
+      "location": "80311 Schiller Circle",
+      "brand": "Jabbercube",
+      "lastSeen": "2021-11-09T06:15:33Z",
+      "status": "offline"
+    },
+    {
+      "id": 99,
+      "company": 2,
+      "type": "646-28",
+      "location": "5 Merrick Way",
+      "brand": "Buzzster",
+      "lastSeen": "2020-10-15T09:37:51Z",
+      "status": "pending"
+    },
+    {
+      "id": 100,
+      "company": 1,
+      "type": "138-98",
+      "location": "6 Parkside Pass",
+      "brand": "Voolia",
+      "lastSeen": "2019-07-02T07:12:10Z",
+      "status": "offline"
+    },
+    {
+      "id": 101,
+      "company": 1,
+      "type": "033-94",
+      "location": "71 Northwestern Avenue",
+      "brand": "Realcube",
+      "lastSeen": "2020-10-05T10:08:04Z",
+      "status": "online"
+    },
+    {
+      "id": 102,
+      "company": 1,
+      "type": "153-47",
+      "location": "85 Everett Point",
+      "brand": "Zoomzone",
+      "lastSeen": "2021-09-07T06:46:05Z",
+      "status": "online"
+    },
+    {
+      "id": 103,
+      "company": 1,
+      "type": "657-86",
+      "location": "68740 Crownhardt Court",
+      "brand": "Tanoodle",
+      "lastSeen": "2020-02-01T10:37:17Z",
+      "status": "offline"
+    },
+    {
+      "id": 104,
+      "company": 3,
+      "type": "540-09",
+      "location": "1806 Garrison Parkway",
+      "brand": "Fiveclub",
+      "lastSeen": "2022-03-31T13:38:21Z",
+      "status": "online"
+    },
+    {
+      "id": 105,
+      "company": 3,
+      "type": "859-44",
+      "location": "61288 Sachtjen Circle",
+      "brand": "Podcat",
+      "lastSeen": "2021-06-14T07:09:05Z",
+      "status": "online"
+    },
+    {
+      "id": 106,
+      "company": 1,
+      "type": "103-81",
+      "location": "835 Main Junction",
+      "brand": "Flipbug",
+      "lastSeen": "2022-04-13T09:20:01Z",
+      "status": "online"
+    },
+    {
+      "id": 107,
+      "company": 1,
+      "type": "865-22",
+      "location": "0 Del Mar Pass",
+      "brand": "Zoomzone",
+      "lastSeen": "2021-06-25T01:20:57Z",
+      "status": "offline"
+    },
+    {
+      "id": 108,
+      "company": 1,
+      "type": "978-72",
+      "location": "60304 Hovde Terrace",
+      "brand": "Wordware",
+      "lastSeen": "2021-12-11T08:41:24Z",
+      "status": "pending"
+    },
+    {
+      "id": 109,
+      "company": 1,
+      "type": "145-27",
+      "location": "2 Tony Trail",
+      "brand": "Cogibox",
+      "lastSeen": "2022-07-04T08:40:14Z",
+      "status": "offline"
+    },
+    {
+      "id": 110,
+      "company": 2,
+      "type": "551-86",
+      "location": "94116 Montana Lane",
+      "brand": "Ailane",
+      "lastSeen": "2021-07-21T11:23:04Z",
+      "status": "online"
+    },
+    {
+      "id": 111,
+      "company": 1,
+      "type": "083-32",
+      "location": "842 Canary Alley",
+      "brand": "Flashpoint",
+      "lastSeen": "2020-05-12T06:06:32Z",
+      "status": "pending"
+    },
+    {
+      "id": 112,
+      "company": 2,
+      "type": "222-27",
+      "location": "3967 Morningstar Point",
+      "brand": "Dabshots",
+      "lastSeen": "2022-11-19T07:13:29Z",
+      "status": "offline"
+    },
+    {
+      "id": 113,
+      "company": 1,
+      "type": "112-46",
+      "location": "51 Eggendart Drive",
+      "brand": "Tagpad",
+      "lastSeen": "2020-06-20T09:54:08Z",
+      "status": "online"
+    },
+    {
+      "id": 114,
+      "company": 2,
+      "type": "099-29",
+      "location": "280 Heffernan Center",
+      "brand": "Divape",
+      "lastSeen": "2019-08-20T23:01:50Z",
+      "status": "pending"
+    },
+    {
+      "id": 115,
+      "company": 1,
+      "type": "404-43",
+      "location": "5431 Clemons Hill",
+      "brand": "Pixoboo",
+      "lastSeen": "2019-05-01T23:48:41Z",
+      "status": "pending"
+    },
+    {
+      "id": 116,
+      "company": 3,
+      "type": "877-88",
+      "location": "6872 Valley Edge Pass",
+      "brand": "Centizu",
+      "lastSeen": "2021-08-22T06:37:12Z",
+      "status": "offline"
+    },
+    {
+      "id": 117,
+      "company": 3,
+      "type": "137-67",
+      "location": "13577 Forster Point",
+      "brand": "Lajo",
+      "lastSeen": "2022-08-02T10:10:12Z",
+      "status": "offline"
+    },
+    {
+      "id": 118,
+      "company": 2,
+      "type": "816-21",
+      "location": "28721 Veith Parkway",
+      "brand": "Jabberbean",
+      "lastSeen": "2022-10-17T23:54:55Z",
+      "status": "offline"
+    },
+    {
+      "id": 119,
+      "company": 2,
+      "type": "302-17",
+      "location": "58303 Erie Lane",
+      "brand": "Gigazoom",
+      "lastSeen": "2019-03-15T03:50:53Z",
+      "status": "offline"
+    },
+    {
+      "id": 120,
+      "company": 1,
+      "type": "922-47",
+      "location": "27 Sycamore Park",
+      "brand": "Meevee",
+      "lastSeen": "2020-09-08T14:28:54Z",
+      "status": "pending"
+    },
+    {
+      "id": 121,
+      "company": 1,
+      "type": "864-64",
+      "location": "6 Orin Trail",
+      "brand": "Viva",
+      "lastSeen": "2021-12-03T02:38:46Z",
+      "status": "offline"
+    },
+    {
+      "id": 122,
+      "company": 2,
+      "type": "193-09",
+      "location": "3885 Dexter Street",
+      "brand": "Dazzlesphere",
+      "lastSeen": "2020-10-29T19:10:14Z",
+      "status": "offline"
+    },
+    {
+      "id": 123,
+      "company": 2,
+      "type": "021-52",
+      "location": "1 Springs Junction",
+      "brand": "Nlounge",
+      "lastSeen": "2021-05-30T06:09:22Z",
+      "status": "offline"
+    },
+    {
+      "id": 124,
+      "company": 1,
+      "type": "349-83",
+      "location": "8620 Anniversary Road",
+      "brand": "Ozu",
+      "lastSeen": "2020-04-26T20:51:04Z",
+      "status": "online"
+    },
+    {
+      "id": 125,
+      "company": 2,
+      "type": "791-79",
+      "location": "704 Vidon Way",
+      "brand": "Linkbuzz",
+      "lastSeen": "2020-12-06T12:32:15Z",
+      "status": "online"
+    },
+    {
+      "id": 126,
+      "company": 1,
+      "type": "652-49",
+      "location": "807 Meadow Valley Circle",
+      "brand": "Devcast",
+      "lastSeen": "2021-11-02T10:05:40Z",
+      "status": "online"
+    },
+    {
+      "id": 127,
+      "company": 2,
+      "type": "998-74",
+      "location": "647 Fisk Avenue",
+      "brand": "Plambee",
+      "lastSeen": "2022-05-07T19:05:02Z",
+      "status": "pending"
+    },
+    {
+      "id": 128,
+      "company": 2,
+      "type": "297-17",
+      "location": "1 Gateway Court",
+      "brand": "Quire",
+      "lastSeen": "2020-04-20T05:43:58Z",
+      "status": "offline"
+    },
+    {
+      "id": 129,
+      "company": 2,
+      "type": "034-25",
+      "location": "4 Brown Junction",
+      "brand": "Quamba",
+      "lastSeen": "2019-02-14T05:25:13Z",
+      "status": "offline"
+    },
+    {
+      "id": 130,
+      "company": 1,
+      "type": "379-46",
+      "location": "875 Oakridge Way",
+      "brand": "Fatz",
+      "lastSeen": "2021-09-15T05:17:46Z",
+      "status": "pending"
+    },
+    {
+      "id": 131,
+      "company": 3,
+      "type": "394-53",
+      "location": "7 Hansons Center",
+      "brand": "Cogidoo",
+      "lastSeen": "2022-08-26T01:26:47Z",
+      "status": "pending"
+    },
+    {
+      "id": 132,
+      "company": 1,
+      "type": "872-86",
+      "location": "93 Maryland Plaza",
+      "brand": "Vinte",
+      "lastSeen": "2019-08-12T14:54:04Z",
+      "status": "pending"
+    },
+    {
+      "id": 133,
+      "company": 3,
+      "type": "684-18",
+      "location": "006 Vera Parkway",
+      "brand": "Kaymbo",
+      "lastSeen": "2019-10-14T21:28:07Z",
+      "status": "online"
+    },
+    {
+      "id": 134,
+      "company": 3,
+      "type": "454-42",
+      "location": "71111 Spenser Drive",
+      "brand": "Skiba",
+      "lastSeen": "2019-06-17T10:58:39Z",
+      "status": "pending"
+    },
+    {
+      "id": 135,
+      "company": 2,
+      "type": "526-43",
+      "location": "9003 Sunbrook Street",
+      "brand": "Plajo",
+      "lastSeen": "2019-02-25T08:37:16Z",
+      "status": "online"
+    },
+    {
+      "id": 136,
+      "company": 2,
+      "type": "184-61",
+      "location": "5873 Northport Street",
+      "brand": "Fatz",
+      "lastSeen": "2021-12-12T18:27:24Z",
+      "status": "pending"
+    },
+    {
+      "id": 137,
+      "company": 2,
+      "type": "014-53",
+      "location": "217 Erie Place",
+      "brand": "Topicblab",
+      "lastSeen": "2022-10-09T23:07:57Z",
+      "status": "offline"
+    },
+    {
+      "id": 138,
+      "company": 3,
+      "type": "304-01",
+      "location": "242 Moulton Circle",
+      "brand": "DabZ",
+      "lastSeen": "2022-04-07T01:32:01Z",
+      "status": "online"
+    },
+    {
+      "id": 139,
+      "company": 3,
+      "type": "394-65",
+      "location": "8 Algoma Drive",
+      "brand": "Abatz",
+      "lastSeen": "2019-03-18T11:17:51Z",
+      "status": "pending"
+    },
+    {
+      "id": 140,
+      "company": 2,
+      "type": "436-14",
+      "location": "8403 Nancy Terrace",
+      "brand": "Fivechat",
+      "lastSeen": "2020-03-03T18:13:25Z",
+      "status": "offline"
+    },
+    {
+      "id": 141,
+      "company": 1,
+      "type": "441-39",
+      "location": "3 Sachs Junction",
+      "brand": "Flashpoint",
+      "lastSeen": "2022-05-05T07:26:54Z",
+      "status": "offline"
+    },
+    {
+      "id": 142,
+      "company": 2,
+      "type": "779-21",
+      "location": "652 Del Mar Street",
+      "brand": "Gabcube",
+      "lastSeen": "2019-09-06T21:56:18Z",
+      "status": "offline"
+    },
+    {
+      "id": 143,
+      "company": 3,
+      "type": "970-60",
+      "location": "500 Lukken Drive",
+      "brand": "Tagopia",
+      "lastSeen": "2019-06-26T18:22:37Z",
+      "status": "online"
+    },
+    {
+      "id": 144,
+      "company": 1,
+      "type": "806-02",
+      "location": "59388 Heath Street",
+      "brand": "Wikibox",
+      "lastSeen": "2021-12-01T22:06:45Z",
+      "status": "offline"
+    },
+    {
+      "id": 145,
+      "company": 2,
+      "type": "055-02",
+      "location": "38 Carpenter Circle",
+      "brand": "Roomm",
+      "lastSeen": "2019-08-10T15:07:29Z",
+      "status": "online"
+    },
+    {
+      "id": 146,
+      "company": 1,
+      "type": "930-54",
+      "location": "32481 Laurel Court",
+      "brand": "Yodel",
+      "lastSeen": "2021-11-17T19:02:57Z",
+      "status": "online"
+    },
+    {
+      "id": 147,
+      "company": 3,
+      "type": "247-39",
+      "location": "83 Pearson Hill",
+      "brand": "Snaptags",
+      "lastSeen": "2020-07-01T08:21:37Z",
+      "status": "pending"
+    },
+    {
+      "id": 148,
+      "company": 1,
+      "type": "229-55",
+      "location": "42 American Ash Trail",
+      "brand": "Pixonyx",
+      "lastSeen": "2020-07-13T11:47:35Z",
+      "status": "pending"
+    },
+    {
+      "id": 149,
+      "company": 3,
+      "type": "554-78",
+      "location": "8 1st Plaza",
+      "brand": "Midel",
+      "lastSeen": "2020-03-24T12:53:15Z",
+      "status": "offline"
+    },
+    {
+      "id": 150,
+      "company": 3,
+      "type": "358-57",
+      "location": "83364 Morningstar Junction",
+      "brand": "Jamia",
+      "lastSeen": "2020-04-26T15:03:52Z",
+      "status": "online"
+    },
+    {
+      "id": 151,
+      "company": 3,
+      "type": "835-88",
+      "location": "813 Old Gate Point",
+      "brand": "Bluejam",
+      "lastSeen": "2020-12-14T10:54:38Z",
+      "status": "offline"
+    },
+    {
+      "id": 152,
+      "company": 3,
+      "type": "024-27",
+      "location": "0 Gateway Court",
+      "brand": "Jabbersphere",
+      "lastSeen": "2021-01-27T13:09:21Z",
+      "status": "offline"
+    },
+    {
+      "id": 153,
+      "company": 1,
+      "type": "099-50",
+      "location": "729 Oneill Crossing",
+      "brand": "Dabfeed",
+      "lastSeen": "2021-02-18T23:17:30Z",
+      "status": "online"
+    },
+    {
+      "id": 154,
+      "company": 1,
+      "type": "569-30",
+      "location": "25 Carioca Center",
+      "brand": "Chatterbridge",
+      "lastSeen": "2022-11-23T11:30:03Z",
+      "status": "pending"
+    },
+    {
+      "id": 155,
+      "company": 2,
+      "type": "879-30",
+      "location": "030 Cordelia Circle",
+      "brand": "Bluezoom",
+      "lastSeen": "2020-07-13T09:03:42Z",
+      "status": "offline"
+    },
+    {
+      "id": 156,
+      "company": 1,
+      "type": "119-64",
+      "location": "34 Anhalt Crossing",
+      "brand": "Lazzy",
+      "lastSeen": "2020-04-27T23:59:43Z",
+      "status": "pending"
+    },
+    {
+      "id": 157,
+      "company": 3,
+      "type": "433-47",
+      "location": "1533 Welch Street",
+      "brand": "Feedmix",
+      "lastSeen": "2021-08-13T15:15:32Z",
+      "status": "online"
+    },
+    {
+      "id": 158,
+      "company": 2,
+      "type": "317-59",
+      "location": "20 Heath Pass",
+      "brand": "Rooxo",
+      "lastSeen": "2020-02-22T11:27:53Z",
+      "status": "pending"
+    },
+    {
+      "id": 159,
+      "company": 3,
+      "type": "347-00",
+      "location": "30 Aberg Drive",
+      "brand": "Kwimbee",
+      "lastSeen": "2022-04-21T17:31:29Z",
+      "status": "online"
+    },
+    {
+      "id": 160,
+      "company": 3,
+      "type": "167-54",
+      "location": "78406 Delaware Way",
+      "brand": "Kazio",
+      "lastSeen": "2021-12-05T08:00:50Z",
+      "status": "online"
+    },
+    {
+      "id": 161,
+      "company": 2,
+      "type": "484-54",
+      "location": "85431 Clarendon Point",
+      "brand": "Gigashots",
+      "lastSeen": "2020-06-24T16:08:38Z",
+      "status": "pending"
+    },
+    {
+      "id": 162,
+      "company": 1,
+      "type": "593-37",
+      "location": "9008 Crownhardt Parkway",
+      "brand": "Blogtags",
+      "lastSeen": "2020-11-30T21:44:51Z",
+      "status": "online"
+    },
+    {
+      "id": 163,
+      "company": 2,
+      "type": "060-11",
+      "location": "25736 Hazelcrest Road",
+      "brand": "Pixonyx",
+      "lastSeen": "2022-10-25T16:15:09Z",
+      "status": "offline"
+    },
+    {
+      "id": 164,
+      "company": 3,
+      "type": "401-91",
+      "location": "7 Jenna Point",
+      "brand": "Fivebridge",
+      "lastSeen": "2019-11-23T07:53:40Z",
+      "status": "pending"
+    },
+    {
+      "id": 165,
+      "company": 1,
+      "type": "796-54",
+      "location": "31512 Heath Hill",
+      "brand": "Devbug",
+      "lastSeen": "2019-12-03T07:37:00Z",
+      "status": "pending"
+    },
+    {
+      "id": 166,
+      "company": 1,
+      "type": "568-02",
+      "location": "841 Lindbergh Trail",
+      "brand": "Bubblemix",
+      "lastSeen": "2022-05-17T19:30:52Z",
+      "status": "pending"
+    },
+    {
+      "id": 167,
+      "company": 2,
+      "type": "865-17",
+      "location": "037 Killdeer Plaza",
+      "brand": "Fadeo",
+      "lastSeen": "2019-04-19T16:57:26Z",
+      "status": "pending"
+    },
+    {
+      "id": 168,
+      "company": 1,
+      "type": "156-68",
+      "location": "7 Lindbergh Hill",
+      "brand": "Quaxo",
+      "lastSeen": "2020-02-01T09:45:21Z",
+      "status": "online"
+    },
+    {
+      "id": 169,
+      "company": 1,
+      "type": "669-59",
+      "location": "690 Northfield Crossing",
+      "brand": "Trilia",
+      "lastSeen": "2019-06-23T20:10:00Z",
+      "status": "offline"
+    },
+    {
+      "id": 170,
+      "company": 1,
+      "type": "239-71",
+      "location": "96 Del Mar Alley",
+      "brand": "Zoomzone",
+      "lastSeen": "2022-11-24T18:48:19Z",
+      "status": "offline"
+    },
+    {
+      "id": 171,
+      "company": 2,
+      "type": "825-83",
+      "location": "14 Golf View Plaza",
+      "brand": "Livepath",
+      "lastSeen": "2019-07-05T00:47:29Z",
+      "status": "pending"
+    },
+    {
+      "id": 172,
+      "company": 1,
+      "type": "974-35",
+      "location": "3125 Mockingbird Hill",
+      "brand": "Yodel",
+      "lastSeen": "2022-01-17T14:55:08Z",
+      "status": "pending"
+    },
+    {
+      "id": 173,
+      "company": 2,
+      "type": "240-29",
+      "location": "350 Lunder Road",
+      "brand": "Innojam",
+      "lastSeen": "2020-04-02T04:46:49Z",
+      "status": "offline"
+    },
+    {
+      "id": 174,
+      "company": 2,
+      "type": "931-87",
+      "location": "33 Ohio Plaza",
+      "brand": "Feedfish",
+      "lastSeen": "2022-10-10T20:13:01Z",
+      "status": "online"
+    },
+    {
+      "id": 175,
+      "company": 1,
+      "type": "504-46",
+      "location": "5131 Everett Park",
+      "brand": "Jaxnation",
+      "lastSeen": "2020-04-01T10:36:16Z",
+      "status": "pending"
+    },
+    {
+      "id": 176,
+      "company": 3,
+      "type": "183-86",
+      "location": "7403 Chinook Circle",
+      "brand": "Roomm",
+      "lastSeen": "2021-04-18T09:21:40Z",
+      "status": "online"
+    },
+    {
+      "id": 177,
+      "company": 1,
+      "type": "612-60",
+      "location": "12637 Pierstorff Pass",
+      "brand": "Cogibox",
+      "lastSeen": "2022-02-17T10:03:35Z",
+      "status": "pending"
+    },
+    {
+      "id": 178,
+      "company": 2,
+      "type": "106-87",
+      "location": "9423 Loomis Center",
+      "brand": "Quinu",
+      "lastSeen": "2022-06-07T07:11:46Z",
+      "status": "pending"
+    },
+    {
+      "id": 179,
+      "company": 3,
+      "type": "194-82",
+      "location": "94811 Glacier Hill Point",
+      "brand": "Zoozzy",
+      "lastSeen": "2022-02-16T10:20:27Z",
+      "status": "online"
+    },
+    {
+      "id": 180,
+      "company": 1,
+      "type": "376-24",
+      "location": "724 Glendale Street",
+      "brand": "Fanoodle",
+      "lastSeen": "2019-08-08T17:55:33Z",
+      "status": "online"
+    },
+    {
+      "id": 181,
+      "company": 2,
+      "type": "975-89",
+      "location": "781 Bowman Pass",
+      "brand": "Brightbean",
+      "lastSeen": "2020-06-28T03:27:44Z",
+      "status": "offline"
+    },
+    {
+      "id": 182,
+      "company": 2,
+      "type": "859-45",
+      "location": "4224 Golf Course Crossing",
+      "brand": "Rhycero",
+      "lastSeen": "2021-11-11T01:41:06Z",
+      "status": "online"
+    },
+    {
+      "id": 183,
+      "company": 3,
+      "type": "692-18",
+      "location": "6 Caliangt Way",
+      "brand": "Quire",
+      "lastSeen": "2020-09-01T23:47:07Z",
+      "status": "online"
+    },
+    {
+      "id": 184,
+      "company": 2,
+      "type": "433-29",
+      "location": "91 Forest Street",
+      "brand": "Quinu",
+      "lastSeen": "2022-06-14T19:22:32Z",
+      "status": "online"
+    },
+    {
+      "id": 185,
+      "company": 2,
+      "type": "308-23",
+      "location": "536 Bonner Center",
+      "brand": "Trunyx",
+      "lastSeen": "2022-12-07T01:50:16Z",
+      "status": "offline"
+    },
+    {
+      "id": 186,
+      "company": 2,
+      "type": "456-18",
+      "location": "0 Sycamore Parkway",
+      "brand": "Zava",
+      "lastSeen": "2022-01-29T06:22:00Z",
+      "status": "online"
+    },
+    {
+      "id": 187,
+      "company": 3,
+      "type": "374-68",
+      "location": "421 Sutherland Park",
+      "brand": "Eadel",
+      "lastSeen": "2021-11-30T20:45:49Z",
+      "status": "online"
+    },
+    {
+      "id": 188,
+      "company": 3,
+      "type": "332-52",
+      "location": "4967 Harbort Court",
+      "brand": "Tavu",
+      "lastSeen": "2019-11-28T05:58:57Z",
+      "status": "pending"
+    },
+    {
+      "id": 189,
+      "company": 2,
+      "type": "566-83",
+      "location": "60682 Harper Plaza",
+      "brand": "Tazzy",
+      "lastSeen": "2021-05-20T23:03:02Z",
+      "status": "offline"
+    },
+    {
+      "id": 190,
+      "company": 3,
+      "type": "510-26",
+      "location": "3980 Acker Junction",
+      "brand": "InnoZ",
+      "lastSeen": "2021-09-28T21:35:29Z",
+      "status": "offline"
+    },
+    {
+      "id": 191,
+      "company": 1,
+      "type": "411-94",
+      "location": "15 Duke Hill",
+      "brand": "Twimm",
+      "lastSeen": "2022-02-19T19:32:51Z",
+      "status": "pending"
+    },
+    {
+      "id": 192,
+      "company": 3,
+      "type": "924-22",
+      "location": "56006 Oriole Point",
+      "brand": "Twitterlist",
+      "lastSeen": "2020-05-10T03:59:50Z",
+      "status": "online"
+    },
+    {
+      "id": 193,
+      "company": 3,
+      "type": "068-41",
+      "location": "4635 Coleman Point",
+      "brand": "Feedbug",
+      "lastSeen": "2021-09-09T01:13:56Z",
+      "status": "online"
+    },
+    {
+      "id": 194,
+      "company": 2,
+      "type": "514-55",
+      "location": "89604 Stang Avenue",
+      "brand": "Twimm",
+      "lastSeen": "2020-07-20T10:36:42Z",
+      "status": "offline"
+    },
+    {
+      "id": 195,
+      "company": 3,
+      "type": "075-11",
+      "location": "9 Red Cloud Circle",
+      "brand": "Mudo",
+      "lastSeen": "2021-01-05T00:55:46Z",
+      "status": "offline"
+    },
+    {
+      "id": 196,
+      "company": 1,
+      "type": "711-05",
+      "location": "83113 Arkansas Drive",
+      "brand": "Skyba",
+      "lastSeen": "2021-06-20T10:10:47Z",
+      "status": "pending"
+    },
+    {
+      "id": 197,
+      "company": 3,
+      "type": "533-18",
+      "location": "710 Dorton Crossing",
+      "brand": "Jamia",
+      "lastSeen": "2020-12-08T02:59:33Z",
+      "status": "pending"
+    },
+    {
+      "id": 198,
+      "company": 1,
+      "type": "693-44",
+      "location": "2972 Anniversary Trail",
+      "brand": "Pixoboo",
+      "lastSeen": "2020-08-03T04:44:29Z",
+      "status": "pending"
+    },
+    {
+      "id": 199,
+      "company": 1,
+      "type": "955-58",
+      "location": "7 Cottonwood Park",
+      "brand": "Kazu",
+      "lastSeen": "2021-03-28T12:04:38Z",
+      "status": "online"
+    },
+    {
+      "id": 200,
+      "company": 3,
+      "type": "919-05",
+      "location": "41 Arizona Trail",
+      "brand": "Flipbug",
+      "lastSeen": "2021-08-16T14:18:57Z",
+      "status": "pending"
+    }
+  ]
+}

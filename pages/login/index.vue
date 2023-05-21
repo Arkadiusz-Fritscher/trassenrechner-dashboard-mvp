@@ -1,4 +1,8 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+definePageMeta({
+  layout: "blank",
+});
+</script>
 
 <template>
   <VContainer fluid class="fill-height"> Login </VContainer>

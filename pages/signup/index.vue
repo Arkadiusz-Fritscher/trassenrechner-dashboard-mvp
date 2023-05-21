@@ -76,6 +76,10 @@
 </template>
 
 <script setup>
+definePageMeta({
+  layout: "blank",
+});
+
 const name = ref("");
 const email = ref("");
 const password = ref("");

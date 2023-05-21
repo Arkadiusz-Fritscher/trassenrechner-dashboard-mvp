@@ -63,8 +63,6 @@ const user = useUser();
           </v-list-item>
         </v-list>
       </v-menu>
-
-      <div>{{ user }}</div>
     </template>
   </v-app-bar>
 </template>

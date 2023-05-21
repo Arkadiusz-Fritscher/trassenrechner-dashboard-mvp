@@ -1,6 +1,9 @@
 import db from "@/db";
+import type { User, Company } from "@/types";
 
 export default defineEventHandler((event) => {
+  const user = useUser();
+
   const query = getQuery(event);
 
   if (query.id === undefined) {
@@ -10,13 +13,13 @@ export default defineEventHandler((event) => {
     });
   }
 
-  const device = db.devices.find((device) => device.device_id === Number(query.id));
-  if (device === undefined) {
+  const company = db.companies.find((company) => company.id === user.value?.company);
+  if (company === undefined) {
     throw createError({
       statusCode: 404,
-      statusMessage: "Device not found",
+      statusMessage: "Company not found",
     });
   }
 
-  return device;
+  return company;
 });
