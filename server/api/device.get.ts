@@ -10,7 +10,7 @@ export default defineEventHandler((event) => {
     });
   }
 
-  const device = db.devices.find((device) => device.device_id === Number(query.id));
+  const device = db.devices.find((device) => device.id === Number(query.id));
   if (device === undefined) {
     throw createError({
       statusCode: 404,

@@ -13,8 +13,4 @@
   </VContainer>
 </template>
 
-<style lang="scss" scoped>
-#device-dashboard {
-  gap: 1rem;
-}
-</style>
+<style scoped></style>

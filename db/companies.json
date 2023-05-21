@@ -34,10 +34,15 @@
           { "title": "loop2", "align": "end", "key": "loop2" }
         ],
         "device-meta": [
-          { "title": "Id", "align": "start", "key": "device_id" },
-          { "title": "Status", "align": "end", "key": "device_status" },
-          { "title": "Brand", "align": "end", "key": "manufacturer" },
-          { "title": "Type", "align": "end", "key": "device_type" }
+          {
+            "title": "Id",
+            "align": "start",
+            "key": "id"
+          },
+
+          { "title": "Comp", "align": "end", "key": "company" },
+          { "title": "Brand", "align": "end", "key": "brand" },
+          { "title": "Status", "align": "end", "key": "status" }
         ]
       }
     }

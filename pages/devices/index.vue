@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { VDataTable } from "vuetify/labs/VDataTable";
 import type { Headers } from "@/types";
+
 const router = useRouter();
 const itemsPerPage = ref(25);
 const user = useUser();
@@ -31,7 +32,7 @@ const headers = computed(() => {
 const onClick = (event: Event, item: any) => {
   const deviceId = item.item.value;
   if (deviceId) {
-    router.push({ path: `/device/${deviceId}` });
+    router.push({ name: "devices-id", params: { id: deviceId } });
   }
 };
 </script>
@@ -48,17 +49,15 @@ const onClick = (event: Event, item: any) => {
     </VRow>
     <VRow>
       <VCol cols="12">
-        <v-card v-if="devices">
-          <v-data-table
-            @click:row="onClick"
-            v-model:items-per-page="itemsPerPage"
-            :headers="headers"
-            :items="devices"
-            item-value="id"
-            class="elevation-1"
-            :loading="pending"
-          ></v-data-table>
-        </v-card>
+        <v-data-table
+          @click:row="onClick"
+          v-model:items-per-page="itemsPerPage"
+          :headers="headers"
+          :items="devices"
+          item-value="id"
+          :loading="pending"
+          fixed-header
+        ></v-data-table>
       </VCol>
     </VRow>
   </VContainer>

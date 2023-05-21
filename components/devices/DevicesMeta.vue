@@ -11,7 +11,7 @@ const status = deviceMeta.value?.status;
 </script>
 
 <template>
-  <v-card class="mx-auto">
+  <v-card class="mx-auto border" flat>
     <v-list density="compact">
       <v-list-subheader>
         <VIcon icon="mdi-smoke-detector-outline" />Devices overview

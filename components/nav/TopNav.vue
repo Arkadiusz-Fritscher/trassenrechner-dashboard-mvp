@@ -4,25 +4,29 @@ const links = ref([
     title: "Geräte",
     icon: "mdi-home",
     links: [
-      { title: "Alle Geräte", icon: "mdi-account-multiple-outline", to: "/devices" },
-      { title: "Neues Gerät hinzufügen", icon: "mdi-account-multiple-outline", to: "/devices/add" },
-      { title: "Settings", icon: "mdi-cog-outline", to: "/settings" },
+      {
+        title: "Alle Geräte",
+        icon: "mdi-account-multiple-outline",
+        to: { name: "devices" },
+      },
+      // { title: "Neues Gerät hinzufügen", icon: "mdi-account-multiple-outline", to: "/devices/add" },
+      // { title: "Settings", icon: "mdi-cog-outline", to: "/settings" },
     ],
   },
   {
     title: "Users",
     icon: "mdi-account-multiple-outline",
     links: [
-      { title: "Neuer User", icon: "mdi-account-multiple-outline", to: "/users/add" },
-      { title: "Settings", icon: "mdi-cog-outline", to: "/settings" },
+      { title: "Neuer User", icon: "mdi-account-multiple-outline", to: "/" },
+      { title: "Settings", icon: "mdi-cog-outline", to: "/" },
     ],
   },
   {
     title: "Settings",
     icon: "mdi-cog-outline",
     links: [
-      { title: "Neuer User", icon: "mdi-account-multiple-outline", to: "/users/add" },
-      { title: "Settings", icon: "mdi-cog-outline", to: "/settings" },
+      { title: "Neuer User", icon: "mdi-account-multiple-outline", to: "/" },
+      { title: "Settings", icon: "mdi-cog-outline", to: "/" },
     ],
   },
 ]);
